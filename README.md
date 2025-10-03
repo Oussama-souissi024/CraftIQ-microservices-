@@ -1,5 +1,6 @@
 # CraftIQ-microservices-
-CraftIQ is an manufacturing software system designed to streamline and optimize manufacturing processes. It provides a comprehensive suite of tools for inventory management, production planning, quality control, and more. With CraftIQ, manufacturers can improve efficiency, reduce costs, and enhance overall productivity.
+CraftIQ is an manufacturing software system designed to streamline and optimize manufacturing processes. It provides a comprehensive suite of tools
+for inventory management, production planning, quality control, and more. With CraftIQ, manufacturers can improve efficiency, reduce costs, and enhance overall productivity.
 
 ## Key Features
 
